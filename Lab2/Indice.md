@@ -1,4 +1,4 @@
-##Ejercicios Laboratorio 2
+## Ejercicios Laboratorio 2
 * Diagrama 1: ConflictosBelicos
 * Diagrama 2: Criptomonedas
 * Diagrama 3: Ejercicio1
